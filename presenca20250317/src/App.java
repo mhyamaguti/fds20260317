@@ -8,5 +8,6 @@ public class App {
         System.out.println("Guilherme Girelli está presente");
         System.out.println("Natan Stallivieri da Silva");
         // Iohanna Sofia Dietz Maldaner :)
+        //Guilherme Schneider
     }
 }
