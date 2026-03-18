@@ -9,6 +9,8 @@ public class App {
         System.out.println("Natan Stallivieri da Silva");
         System.out.println("João lucas martinello de oliveira");
         // Iohanna Sofia Dietz Maldaner :)
+        // Henrique Rosa Nunes
+        System.out.println("Henrique Rosa Nunes");
         //JuanMarinPeixoto
     }
 }
