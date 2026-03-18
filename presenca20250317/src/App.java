@@ -7,6 +7,7 @@ public class App {
         System.out.println("LORENZO ALI GONÇALVES");
         System.out.println("Guilherme Girelli está presente");
         System.out.println("Natan Stallivieri da Silva");
+        System.out.println("João lucas martinello de oliveira");
         // Iohanna Sofia Dietz Maldaner :)
     }
 }
